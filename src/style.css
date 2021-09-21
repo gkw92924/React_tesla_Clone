@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+
+#time{
+  
+  height: 1px;
+  padding: 0px;
+  margin: 0px;
+  width: 100px;
+  font-size: 11px;
+  color:RGB(150,160,150);
+  text-align: right;
+}
+
+table{
+  margin: auto auto;
+}
